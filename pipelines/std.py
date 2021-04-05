@@ -1,5 +1,4 @@
-from my_utils.foo import foo
+from my_utils import foo
 import pandas
 
 foo()
-foo2()
