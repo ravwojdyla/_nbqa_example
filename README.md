@@ -49,7 +49,7 @@ mypy.....................................................................Passed
 
 You can also fix it by applying this patch:
 
-```
+```diff
 diff --git a/my_utils/__init__.py b/my_utils/__init__.py
 index 863befe..e69de29 100644
 --- a/my_utils/__init__.py
